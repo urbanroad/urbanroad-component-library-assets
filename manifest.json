@@ -1,11 +1,61 @@
 {
-  "version": "v1.0.1",
-  "sourceCommit": "123e46ad0b50471b780558e581a4636070301af0",
+  "version": "v1.0.2",
+  "sourceCommit": "2efa60c90cdb8f69151e6e4cd6f26d84836ebbcd",
+  "format": "es-modules",
   "assets": [
     {
-      "file": "urbanroad-components.js",
-      "bytes": 1546824,
-      "sha256": "abb2f5ed2c5951f50131682e53026ea0bbc47903845fe9ace296f70e9ce87b9e"
+      "file": "assets/client.css",
+      "bytes": 201476,
+      "gzipBytes": 30595,
+      "sha256": "39c91c581869a3c1a93b07a6d87811aa4628952420fbff1b3203e190cf345550"
+    },
+    {
+      "file": "assets/client.js",
+      "bytes": 758000,
+      "gzipBytes": 209868,
+      "sha256": "f0d961d5448e93c9fbdec1e46b414af20dd2e29b650db272f36b6f30acaf8bd8"
+    },
+    {
+      "file": "assets/country-state-selector.js",
+      "bytes": 507216,
+      "gzipBytes": 120861,
+      "sha256": "d0a46c161c1045c8302982f03ce67327394bfad83a5e4f53ad8bb656fcba4e46"
+    },
+    {
+      "file": "assets/lead-attribution.js",
+      "bytes": 103,
+      "gzipBytes": 111,
+      "sha256": "1680e998c749c6d29792bfac83c2cd3d2689a50da6b93e95a2a2e6c461b5e0c0"
+    },
+    {
+      "file": "assets/lead-attribution2.js",
+      "bytes": 1803,
+      "gzipBytes": 819,
+      "sha256": "8f4cce3f42ca2ef840fac62f770657e6bc3c536222d32923d9b88184e25320dd"
+    },
+    {
+      "file": "assets/modulepreload-polyfill.js",
+      "bytes": 706,
+      "gzipBytes": 394,
+      "sha256": "c6821b8d020e68b9ec43626b8dcf96a9ad27d71061c132266bcad0283f71ac8e"
+    },
+    {
+      "file": "assets/one-page-form.js",
+      "bytes": 35706,
+      "gzipBytes": 10926,
+      "sha256": "99640ba6e64337c16ec8d48e0151984afb76e9d22a87dd86e81d97f050ee2c09"
+    },
+    {
+      "file": "assets/wholesale-preview.js",
+      "bytes": 2337,
+      "gzipBytes": 1189,
+      "sha256": "fc6c96247b8b06b956f1b99f9cd85ba150e9c10d99b1916145c79f582f6c6f8e"
+    },
+    {
+      "file": "assets/wholesale-registration-form.js",
+      "bytes": 48047,
+      "gzipBytes": 16799,
+      "sha256": "292f233f625d929b48334a294e41c71c503bbe8161fbf5fd3600bbb218c22160"
     }
   ]
 }
