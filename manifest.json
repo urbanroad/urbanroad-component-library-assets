@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.1",
+  "sourceCommit": "123e46ad0b50471b780558e581a4636070301af0",
+  "assets": [
+    {
+      "file": "urbanroad-components.js",
+      "bytes": 1546824,
+      "sha256": "abb2f5ed2c5951f50131682e53026ea0bbc47903845fe9ace296f70e9ce87b9e"
+    }
+  ]
+}
